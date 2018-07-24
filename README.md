@@ -168,7 +168,7 @@
 
 ```
 
-## 学到的组件
+## 用到的组件
 
 
 ![image](https://github.com/sinian0929/-/blob/master/six.png)
